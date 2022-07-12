@@ -92,18 +92,18 @@
 
 <table align='center'>
   <tr>
-    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalrawat02&show_icons=true&locale=en" alt="kamalrawat" />
+    <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalrawat02&theme=dark&hide_border=true&show_icons=true&locale=en" alt="kamalrawat" />
 </p></td></tr>
 </table>
 
 <table align='center'>
   <tr>
-    <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalrawat02&" alt="kamalrawat" /></p></td></tr>
+    <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalrawat02&theme=dark&hide_border=true&" alt="kamalrawat" /></p></td></tr>
 </table>
 
 <table align='center'>
   <tr>
-    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalrawat02&show_icons=true&locale=en&layout=compact" alt="kamalrawat" /></p></td>
+    <td><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalrawat02&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="kamalrawat" /></p></td>
   </tr>
 </table>
 
